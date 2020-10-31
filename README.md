@@ -6,3 +6,12 @@ hello world -- output
 $ go build hello-world.go
 This will create the exe file
 $ hello-world - This will execute the exe file
+
+2. data-types Example
+$ go run data-types.go
+golang
+1+1 = 2
+7.0/3.0 = 2.3333333333333335
+false
+true
+false
