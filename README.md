@@ -31,3 +31,16 @@ constant
 6e+11
 600000000000
 -0.28470407323754404
+
+5. ForLoop Example
+$ go run for.go
+1
+2
+3
+7
+8
+9
+loop
+1
+3
+5
