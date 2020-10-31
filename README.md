@@ -15,3 +15,12 @@ golang
 false
 true
 false
+
+3. variables Example
+$ go run variables.go
+initial
+1 2
+true
+0
+kinjal
+kinjal
